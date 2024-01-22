@@ -1,0 +1,16 @@
+screensaver_title=Blank Screensaver
+screensaver_subtitle=Intentionally simple screensaver
+short_description=Intentionally simple screensaver for those who prefer a basic blank screen when idle. Always free.
+long_description=Intentionally simple screensaver for those who prefer a basic blank screen when idle. Always free.
+mm_icon_focus_hd=pkg:/images/mm_icon_focus_hd.png
+mm_icon_focus_sd=pkg:/images/mm_icon_focus_sd.png
+splash_screen_hd=pkg:/images/splash_screen_hd.png
+splash_screen_sd=pkg:/images/splash_screen_sd.png
+splash_hd=pkg:/images/splash_hd.png
+splash_sd=pkg:/images/splash_sd.png
+splash_color=#000000
+screensaver_private=0
+hidden=1
+major_version=1
+minor_version=0
+build_version=0
